@@ -1,16 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "Example Title",
         "text": "Example text",
-        "note_id": "5d7e36ba-1435-4b48-a350-521447e0da45"
+        "id": "5d7e36ba-1435-4b48-a350-521447e0da45"
     },
     {
         "title": "Title Note Woo!",
         "text": "Note text woo!",
-        "note_id": "299e4cc3-79d9-409a-becb-ce8701f37576"
+        "id": "299e4cc3-79d9-409a-becb-ce8701f37576"
+    },
+    {
+        "title": "New Note #4",
+        "text": "Note text this is a test",
+        "id": "728d9598-0d22-44c8-bc60-5bed2122c1ac"
     }
 ]
