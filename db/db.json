@@ -1,17 +1,12 @@
 [
     {
-        "title": "Example Title",
-        "text": "Example text",
-        "id": "5d7e36ba-1435-4b48-a350-521447e0da45"
+        "title": "This is a new note.",
+        "text": "Here's some example text for ya.",
+        "id": "ab43794c-7a6c-41f0-95a6-af8a7756afae"
     },
     {
-        "title": "Title Note Woo!",
-        "text": "Note text woo!",
-        "id": "299e4cc3-79d9-409a-becb-ce8701f37576"
-    },
-    {
-        "title": "New Note #4",
-        "text": "Note text this is a test",
-        "id": "728d9598-0d22-44c8-bc60-5bed2122c1ac"
+        "title": "How about another note?",
+        "text": "The first one wasn't enough, eh?",
+        "id": "95b4682a-3d12-4160-8330-5b2cce82d016"
     }
 ]
