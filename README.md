@@ -21,7 +21,7 @@ Click the Get Started button upon opening the application to navigate to the Not
 
 Link to deployed application: https://note-taker-app-zb.herokuapp.com/
 
-![Screenshot](https://github.com/zbeiser/Note-Taker-App/blob/main/assets/Note-Taker-App.png?raw=true)
+![Screenshot](https://github.com/zbeiser/Note-Taker-App/blob/main/public/assets/Note-Taker-App.png?raw=true)
 
 ## Questions
 
