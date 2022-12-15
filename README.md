@@ -8,10 +8,7 @@ This application allows the user to enter notes from a webpage, save them for la
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
